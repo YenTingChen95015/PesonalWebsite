@@ -1,2 +1,2 @@
-#MmyWeb
+# MyWeb
 Web Dev Starter
